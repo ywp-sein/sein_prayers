@@ -1,9 +1,12 @@
-#Summary
+# Summary
 
 [Introduction](README.md)
 
 [About](about.md)
 
+---
+
+# Prayers
 [Weekly prayers](weekly/README.md)
     - [00 Anchored in Love, Led by the Spirit, for the Glory of God](weekly/00.md)
     - [01 Planted, Protected, and Proclaiming His Glory](weekly/01.md)
