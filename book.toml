@@ -6,6 +6,9 @@ description = "This is a prayer space for SEiN."
 [rust]
 edition = "2018"
 
+[output.html]
+default-theme = "ayu"
+preferred-dark-theme = "ayu"
 
 [output.html.search]
 limit-results = 20
