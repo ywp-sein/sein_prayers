@@ -1,10 +1,13 @@
 [book]
-title = "Released and Set Free"
+title = "Prayers for SEiN"
 authors = ["Yuan-Wei Pi"]
 description = "This is a prayer space for SEiN."
 
 [rust]
 edition = "2018"
+
+[output.html]
+no-section-label = true
 
 [output.html.search]
 limit-results = 20

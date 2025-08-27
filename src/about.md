@@ -8,3 +8,6 @@ In Berlin, walking with a local church and journeying alongside several Christia
     - A Christian community where the living presence of Christ unites us in fellowship, prayer and mutual care
 - [SEiN (Save Everyone in Need)](https://www.sein-live.com/)
     - A Christian Education & Business and Social Initiative for Berlin’s Homeless
+    - Prayers for SEiN
+        - [blog form](https://www.sein-live.com/prayers)
+        - [ebook form](https://ywp-sein.github.io/sein_prayers)
