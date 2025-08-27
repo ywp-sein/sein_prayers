@@ -7,7 +7,7 @@
 ---
 
 # Prayers
-[Weekly prayers](weekly/README.md)
+- [Weekly prayers](weekly/README.md)
     - [00 Anchored in Love, Led by the Spirit, for the Glory of God](weekly/00.md)
     - [01 Planted, Protected, and Proclaiming His Glory](weekly/01.md)
     - [02 Learning to Number My Days Between Calling and Rest](weekly/02.md)
