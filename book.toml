@@ -6,8 +6,6 @@ description = "This is a prayer space for SEiN."
 [rust]
 edition = "2018"
 
-[output.html]
-no-section-label = true
 
 [output.html.search]
 limit-results = 20
