@@ -15,3 +15,4 @@ This is the space for weekly prayers.
 - [10 The Joy of the Lord is My Strength](10.md)
 - [11 Endurance, Guidance, and Generous Faith](11.md)
 - [12 Forget About the Money](12.md)
+- [13 No Grey Zone in You](13.md)

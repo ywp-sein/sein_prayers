@@ -21,3 +21,4 @@
     - [10 The Joy of the Lord is My Strength](weekly/10.md)
     - [11 Endurance, Guidance, and Generous Faith](weekly/11.md)
     - [12 Forget About the Money](weekly/12.md)
+    - [13 No Grey Zone in You](weekly/13.md)
