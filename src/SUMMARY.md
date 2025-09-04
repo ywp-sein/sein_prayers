@@ -8,7 +8,6 @@
 
 # Prayers
 - [Weekly prayers](weekly/README.md)
-    - [00 Anchored in Love, Led by the Spirit, for the Glory of God](weekly/00.md)
     - [01 Planted, Protected, and Proclaiming His Glory](weekly/01.md)
     - [02 Learning to Number My Days Between Calling and Rest](weekly/02.md)
     - [03 Walking Through Open Doors with Radical Obedience](weekly/03.md)
@@ -22,3 +21,4 @@
     - [11 Endurance, Guidance, and Generous Faith](weekly/11.md)
     - [12 Forget About the Money](weekly/12.md)
     - [13 No Grey Zone in You](weekly/13.md)
+    - [14 Encouragement from Every Nation](weekly/14.md)
