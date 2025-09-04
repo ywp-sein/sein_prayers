@@ -13,3 +13,5 @@ In Berlin, walking with a local church and journeying alongside several Christia
         - [ebook form](https://ywp-sein.github.io/sein_prayers)
 - [Released and Set Free](https://ywp-sein.github.io/released_and_set_free)
     - A space for some contemplations and writings
+- [Zayin](https://ywp-sein.github.io/zayin)
+    - A prayer space for our business
