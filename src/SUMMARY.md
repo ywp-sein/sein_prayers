@@ -22,3 +22,4 @@
     - [12 Forget About the Money](weekly/12.md)
     - [13 No Grey Zone in You](weekly/13.md)
     - [14 Encouragement from Every Nation](weekly/14.md)
+    - [15 Forget About Deadlines](weekly/15.md)

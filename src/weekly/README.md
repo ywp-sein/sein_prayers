@@ -17,3 +17,4 @@ This is the space for weekly prayers.
 - [12 Forget About the Money](12.md)
 - [13 No Grey Zone in You](13.md)
 - [14 Encouragement from Every Nation](14.md)
+- [15 Forget About Deadlines](15.md)
