@@ -19,3 +19,4 @@ This is the space for weekly prayers.
 - [14 Encouragement from Every Nation](14.md)
 - [15 Forget About Deadlines](15.md)
 - [16 Strength to Rejoice, Courage to Act](16.md)
+- [17 Clear Speech and Patient Growth](17.md)

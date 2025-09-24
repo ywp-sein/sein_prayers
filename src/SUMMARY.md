@@ -24,3 +24,4 @@
     - [14 Encouragement from Every Nation](weekly/14.md)
     - [15 Forget About Deadlines](weekly/15.md)
     - [16 Strength to Rejoice, Courage to Act](weekly/16.md)
+    - [17 Clear Speech and Patient Growth](weekly/17.md)
