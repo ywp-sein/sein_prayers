@@ -20,3 +20,4 @@ This is the space for weekly prayers.
 - [15 Forget About Deadlines](15.md)
 - [16 Strength to Rejoice, Courage to Act](16.md)
 - [17 Clear Speech and Patient Growth](17.md)
+- [18 Transformation in Health and Society](18.md)
