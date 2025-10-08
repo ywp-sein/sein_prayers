@@ -26,3 +26,4 @@
     - [16 Strength to Rejoice, Courage to Act](weekly/16.md)
     - [17 Clear Speech and Patient Growth](weekly/17.md)
     - [18 Transformation in Health and Society](weekly/18.md)
+    - [19 Anointed to Contribute](weekly/19.md)
