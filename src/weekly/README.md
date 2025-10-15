@@ -22,3 +22,4 @@ This is the space for weekly prayers.
 - [17 Clear Speech and Patient Growth](17.md)
 - [18 Transformation in Health and Society](18.md)
 - [19 Anointed to Contribute](19.md)
+- [20 Prepared Hearts and Faithful Steps](20.md)

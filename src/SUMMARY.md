@@ -27,3 +27,4 @@
     - [17 Clear Speech and Patient Growth](weekly/17.md)
     - [18 Transformation in Health and Society](weekly/18.md)
     - [19 Anointed to Contribute](weekly/19.md)
+    - [20 Prepared Hearts and Faithful Steps](weekly/20.md)
