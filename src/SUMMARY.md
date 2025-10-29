@@ -28,3 +28,5 @@
     - [18 Transformation in Health and Society](weekly/18.md)
     - [19 Anointed to Contribute](weekly/19.md)
     - [20 Prepared Hearts and Faithful Steps](weekly/20.md)
+    - [21 Let’s Archive Something](weekly/21.md)
+    - [22 Discernment and Faithfulness](weekly/22.md)

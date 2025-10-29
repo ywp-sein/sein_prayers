@@ -23,3 +23,5 @@ This is the space for weekly prayers.
 - [18 Transformation in Health and Society](18.md)
 - [19 Anointed to Contribute](19.md)
 - [20 Prepared Hearts and Faithful Steps](20.md)
+- [21 Let’s Archive Something](21.md)
+- [22 Discernment and Faithfulness](22.md)
