@@ -30,3 +30,4 @@
     - [20 Prepared Hearts and Faithful Steps](weekly/20.md)
     - [21 Let’s Archive Something](weekly/21.md)
     - [22 Discernment and Faithfulness](weekly/22.md)
+    - [23 Money and Investors](weekly/23.md)

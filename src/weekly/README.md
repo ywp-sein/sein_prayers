@@ -25,3 +25,4 @@ This is the space for weekly prayers.
 - [20 Prepared Hearts and Faithful Steps](20.md)
 - [21 Let’s Archive Something](21.md)
 - [22 Discernment and Faithfulness](22.md)
+- [23 Money and Investors](23.md)
