@@ -26,3 +26,5 @@ This is the space for weekly prayers.
 - [21 Let’s Archive Something](21.md)
 - [22 Discernment and Faithfulness](22.md)
 - [23 Money and Investors](23.md)
+- [24 My Best Friend](24.md)
+- [25 Double Portion](25.md)
