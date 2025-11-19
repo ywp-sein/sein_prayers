@@ -31,3 +31,5 @@
     - [21 Let’s Archive Something](weekly/21.md)
     - [22 Discernment and Faithfulness](weekly/22.md)
     - [23 Money and Investors](weekly/23.md)
+    - [24 My Best Friend](weekly/24.md)
+    - [25 Double Portion](weekly/25.md)
