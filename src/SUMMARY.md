@@ -57,3 +57,5 @@
     - [46 Narrow](weekly/46.md)
     - [47 Sing New Songs](weekly/47.md)
     - [48 Teach Us How to Commune with the Father as You Did](weekly/48.md)
+    - [49 God Has a Plan](weekly/49.md)
+    - [50 The Great Commission](weekly/50.md)

@@ -51,3 +51,5 @@ This is the space for weekly prayers.
 - [46 Narrow](46.md)
 - [47 Sing New Songs](47.md)
 - [48 Teach Us How to Commune with the Father as You Did](48.md)
+- [49 God Has a Plan](49.md)
+- [50 The Great Commission](50.md)
