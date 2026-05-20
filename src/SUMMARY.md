@@ -59,3 +59,4 @@
     - [48 Teach Us How to Commune with the Father as You Did](weekly/48.md)
     - [49 God Has a Plan](weekly/49.md)
     - [50 The Great Commission](weekly/50.md)
+    - [51 Go on](weekly/51.md)

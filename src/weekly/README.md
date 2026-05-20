@@ -53,3 +53,4 @@ This is the space for weekly prayers.
 - [48 Teach Us How to Commune with the Father as You Did](48.md)
 - [49 God Has a Plan](49.md)
 - [50 The Great Commission](50.md)
+- [51 Go on](51.md)
