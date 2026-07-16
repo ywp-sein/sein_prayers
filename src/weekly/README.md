@@ -61,3 +61,4 @@ This is the space for weekly prayers.
 - [56 Breath and Water](56.md)
 - [57 Truth Will Set You Free](57.md)
 - [58 Arise Souls](58.md)
+- [59 Look to the Lamb](59.md)
