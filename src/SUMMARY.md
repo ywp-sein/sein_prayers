@@ -68,3 +68,4 @@
     - [57 Truth Will Set You Free](weekly/57.md)
     - [58 Arise Souls](weekly/58.md)
     - [59 Look to the Lamb](weekly/59.md)
+    - [60 Timely](weekly/60.md)
