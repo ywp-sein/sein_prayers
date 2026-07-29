@@ -69,3 +69,4 @@
     - [58 Arise Souls](weekly/58.md)
     - [59 Look to the Lamb](weekly/59.md)
     - [60 Timely](weekly/60.md)
+    - [61 Stay in Awe of God](weekly/61.md)
