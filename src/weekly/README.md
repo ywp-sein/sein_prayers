@@ -64,3 +64,4 @@ This is the space for weekly prayers.
 - [59 Look to the Lamb](59.md)
 - [60 Timely](60.md)
 - [61 Stay in Awe of God](61.md)
+- [62 Wonderful Counselor](62.md)
