@@ -71,3 +71,4 @@
     - [60 Timely](weekly/60.md)
     - [61 Stay in Awe of God](weekly/61.md)
     - [62 Wonderful Counselor](weekly/62.md)
+    - [63 The Discernment of the Heart](weekly/63.md)

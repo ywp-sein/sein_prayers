@@ -65,3 +65,4 @@ This is the space for weekly prayers.
 - [60 Timely](60.md)
 - [61 Stay in Awe of God](61.md)
 - [62 Wonderful Counselor](62.md)
+- [63 The Discernment of the Heart](63.md)
