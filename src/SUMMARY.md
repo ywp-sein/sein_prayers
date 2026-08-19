@@ -72,3 +72,4 @@
     - [61 Stay in Awe of God](weekly/61.md)
     - [62 Wonderful Counselor](weekly/62.md)
     - [63 The Discernment of the Heart](weekly/63.md)
+    - [64 Awaken Conscience](weekly/64.md)
