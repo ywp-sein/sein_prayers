@@ -67,3 +67,4 @@ This is the space for weekly prayers.
 - [62 Wonderful Counselor](62.md)
 - [63 The Discernment of the Heart](63.md)
 - [64 Awaken Conscience](64.md)
+- [65 Peace to You](65.md)
