@@ -68,3 +68,4 @@ This is the space for weekly prayers.
 - [63 The Discernment of the Heart](63.md)
 - [64 Awaken Conscience](64.md)
 - [65 Peace to You](65.md)
+- [66 A Great, United, and Fierce Fire](66.md)

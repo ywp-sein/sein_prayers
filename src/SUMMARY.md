@@ -74,3 +74,4 @@
     - [63 The Discernment of the Heart](weekly/63.md)
     - [64 Awaken Conscience](weekly/64.md)
     - [65 Peace to You](weekly/65.md)
+    - [66 A Great, United, and Fierce Fire](weekly/66.md)
