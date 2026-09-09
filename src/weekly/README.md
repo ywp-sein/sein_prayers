@@ -69,3 +69,4 @@ This is the space for weekly prayers.
 - [64 Awaken Conscience](64.md)
 - [65 Peace to You](65.md)
 - [66 A Great, United, and Fierce Fire](66.md)
+- [67 Your Presence](67.md)
