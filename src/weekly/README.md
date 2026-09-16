@@ -70,3 +70,4 @@ This is the space for weekly prayers.
 - [65 Peace to You](65.md)
 - [66 A Great, United, and Fierce Fire](66.md)
 - [67 Your Presence](67.md)
+- [68 Make the Godless Godly Again](68.md)
