@@ -8,6 +8,6 @@ In Berlin, walking with a local church and journeying alongside several Christia
     - A global community where believers gather in small groups to fellowship and grow in faith and connection.
 - [SEiN (Save Everyone in Need)](https://www.sein-live.com/)
     - An initiative to archive social issues through Christ
-    - Prayers for SEiN
-        - [blog form](https://www.sein-live.com/prayers)
-        - [ebook form](https://ywp-sein.github.io/sein_prayers)
+    - [Prayers for SEiN](https://www.sein-live.com/prayers)
+    - [Awaken Conscience](https://sein-live.com/missions/awaken-conscience)
+    - [Ending Homelessness](https://sein-live.com/missions/homelessness/)
