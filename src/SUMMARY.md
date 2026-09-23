@@ -77,3 +77,4 @@
     - [66 A Great, United, and Fierce Fire](weekly/66.md)
     - [67 Your Presence](weekly/67.md)
     - [68 Make the Godless Godly Again](weekly/68.md)
+    - [69 Awaken the City Through Your Beauty](weekly/69.md)
