@@ -72,3 +72,4 @@ This is the space for weekly prayers.
 - [67 Your Presence](67.md)
 - [68 Make the Godless Godly Again](68.md)
 - [69 Awaken the City Through Your Beauty ](69.md)
+- [70 Worship and Praise](70.md)
