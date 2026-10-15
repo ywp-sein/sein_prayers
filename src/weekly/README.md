@@ -74,3 +74,4 @@ This is the space for weekly prayers.
 - [69 Awaken the City Through Your Beauty ](69.md)
 - [70 Worship and Praise](70.md)
 - [71 The Lord Is My Judge](71.md)
+- [72 Confidence](72.md)
