@@ -81,3 +81,4 @@
     - [70 Worship and Praise](weekly/70.md)
     - [71 The Lord Is My Judge](weekly/71.md)
     - [72 Confidence](weekly/72.md)
+    - [73 Painting colors](weekly/73.md)
