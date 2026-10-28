@@ -82,3 +82,5 @@
     - [71 The Lord Is My Judge](weekly/71.md)
     - [72 Confidence](weekly/72.md)
     - [73 Painting colors](weekly/73.md)
+    - [74 Do You Believe](weekly/74.md)
+

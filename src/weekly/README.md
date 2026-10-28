@@ -76,3 +76,4 @@ This is the space for weekly prayers.
 - [71 The Lord Is My Judge](71.md)
 - [72 Confidence](72.md)
 - [73 Painting colors](73.md)
+- [74 Do You Believe](74.md)
