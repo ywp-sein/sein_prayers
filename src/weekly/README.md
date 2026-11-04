@@ -77,3 +77,4 @@ This is the space for weekly prayers.
 - [72 Confidence](72.md)
 - [73 Painting colors](73.md)
 - [74 Do You Believe](74.md)
+- [75 Tear Down the Walls](75.md)

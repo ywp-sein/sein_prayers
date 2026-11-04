@@ -83,4 +83,5 @@
     - [72 Confidence](weekly/72.md)
     - [73 Painting colors](weekly/73.md)
     - [74 Do You Believe](weekly/74.md)
+    - [75 Tear Down the Walls](weekly/75.md)
 
